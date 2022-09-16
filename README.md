@@ -17,21 +17,21 @@
 
 ## EDA
   ### Sparsity
-  reduce features dimension due to sparsity using PCA
+  Reduce features dimension due to sparsity using PCA.
   
   <h3 align="center">
-  <img src="Images/pca.png" width="800">
+  <img src="Images/pca.png" width="500">
   </h3>
-  change the dimension from 46 to 30 would have no information-loss and speeds up training time.
+  Change the dimension from 46 to 30 would have no information-loss and speeds up training time.
   
   ### Class Imbalance
-  -cope with class imbalance problem with oversampling
+  Cope with class imbalance problem with oversampling.
   <h3 align="center">
-  <img src="Images/imbalance.png" width="800">
+  <img src="Images/imbalance.png" width="500">
   </h3>
-  after oversampling, distribution of data separated by labels is shown below:
+  After oversampling, distribution of data separated by labels is shown below:
   <h3 align="center">
-  <img src="Images/oversampled.png" width="800">
+  <img src="Images/oversampled.png" width="500">
   </h3>
   
   
